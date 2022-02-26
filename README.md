@@ -115,7 +115,18 @@ Trong docker mỗi service thì là một cái container có thể nói một c�
         - delete 
     - liên kết cái view đó với một url 
     
-    
+#### thay doi url github
+    $ git remote set-url <remote_name> <remote_url>
+    $ git remote set-url origin https://git-repo/new-repository.git
+    $ git remote -v
+$ git reset 
+$ git remote -v
+$ git pull --rebase
+$ git init
+$ git add -A
+$ git commit -m "Add your commit"
+$ git branch -M main
+$ git push origin main --force
     
     
     
